@@ -1,8 +1,70 @@
+# 👋 Hey, I'm Andres
+
+<!-- Animated typing SVG: change the `lines` parameter to whatever you want -->
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&width=680&lines=Frontend+Developer;React+%26+Vue+%7C+TypeScript;Clean+Code+%26+Accesibility" alt="typing animation" />
+
+
+## 👨‍💻 About Me
+I'm a Frontend Developer focused on building **fast, accessible, and delightful** user interfaces.
+I specialize in **React**, **Vue 3**, and **TypeScript**, and I enjoy building component libraries and clean architectures.
+
+Currently:
+- 🚀 Building robust state patterns with **Zustand** (React) and **Pinia** (Vue)
+- 🧪 Improving test coverage using **Vitest**, **RTL**, and **Cypress**
+- 🎨 Crafting design systems and reusable component libraries
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Core:**
+<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+
+**Frameworks & Libraries:**
+<br>
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)
+![Zustand](https://img.shields.io/badge/-Zustand-000?logo=react&logoColor=fff)
+![Pinia](https://img.shields.io/badge/-Pinia-FADA5E?logo=vue.js&logoColor=000)
+
+**Tools & Backend:**
+<br>
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+
+---
+<!--
+  ## 🚀 Featured Projects
+  
+  - [**Care Circle Manager**](https://github.com/yourusername/project1) — Real-time collaboration with Zustand + Firebase  
+  - [**Vue Dashboard Starter**](https://github.com/yourusername/project2) — Vue 3 + Vite + Pinia boilerplate  
+  - [**React Timer App**](https://github.com/yourusername/project3) — Persistent timers with Zustand & local storage
+
+---
+-->
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andres-fcr&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-fcr&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-cagua-r089)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](github.com/andres-fcr)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:andres.fcr089@gmail.com)
+
+
+<!--
 # Hi there, I'm Andrés, welcome to my profile 👋
 
 ## I´m a frontEnd developer
 
-- 🌱 I’m currently learning ReactJS and AngularJS
+- 🌱 I'm a ReactJs and VueJS frontend developer 
 - 🔭 My Short Term goals:
   - Get my first job as a Front-End developer.  ✅ 
   - Learn AngularJS. 🔥
@@ -38,6 +100,8 @@
 [<img align="left" alt="andres-fcr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](github.com/andres-fcr)
 [<img align="left" alt="andres-fcr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/andres-cagua-r089/)
   
+
+
 <!--
 **andres-fcr/andres-fcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
